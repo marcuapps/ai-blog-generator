@@ -1,0 +1,37 @@
+.quill-wrapper .ql-container {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  color: black;
+}
+
+.quill-wrapper .ql-editor {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.ql-toolbar {
+  background-color: #1f2937;
+  color: white;
+}
+
+.ql-toolbar .ql-picker {
+  color: white;
+}
+
+.ql-toolbar .ql-stroke {
+  stroke: white;
+}
+
+.ql-toolbar .ql-fill {
+  fill: white;
+}
+
+.ql-toolbar .ql-picker-options {
+  background-color: #1f2937;
+}
+
+.ql-toolbar .ql-picker-item {
+  color: white;
+}
